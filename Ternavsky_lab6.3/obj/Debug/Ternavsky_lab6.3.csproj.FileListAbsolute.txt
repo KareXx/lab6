@@ -1,0 +1,8 @@
+D:\C#\Ternavsky_lab6\Ternavsky_lab6.3\bin\Debug\Ternavsky_lab6.3.exe.config
+D:\C#\Ternavsky_lab6\Ternavsky_lab6.3\bin\Debug\Ternavsky_lab6.3.exe
+D:\C#\Ternavsky_lab6\Ternavsky_lab6.3\bin\Debug\Ternavsky_lab6.3.pdb
+D:\C#\Ternavsky_lab6\Ternavsky_lab6.3\obj\Debug\Ternavsky_lab6.3.csproj.AssemblyReference.cache
+D:\C#\Ternavsky_lab6\Ternavsky_lab6.3\obj\Debug\Ternavsky_lab6.3.csproj.SuggestedBindingRedirects.cache
+D:\C#\Ternavsky_lab6\Ternavsky_lab6.3\obj\Debug\Ternavsky_lab6.3.csproj.CoreCompileInputs.cache
+D:\C#\Ternavsky_lab6\Ternavsky_lab6.3\obj\Debug\Ternavsky_lab6.3.exe
+D:\C#\Ternavsky_lab6\Ternavsky_lab6.3\obj\Debug\Ternavsky_lab6.3.pdb
